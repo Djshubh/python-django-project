@@ -8,4 +8,4 @@ Feeatures -
 5. Register, Login, Logout functionality added.
 6. Accessing static files (from assets folder).
 
-[snapshot](/snap.jpg) 
+![snapshot](https://github.com/Djshubh/python-django-project/blob/master/snap.png) 
