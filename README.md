@@ -10,6 +10,6 @@ Feeatures -
 
 Checkout the snapshot of my project
 
-![snapshot](https://github.com/Djshubh/python-django-project/blob/master/snap.png) 
+![snapshot](https://github.com/Djshubh/python-django-project/blob/master/snap2.png) 
 
 To learn more, visit this Tutorial on youtube (https://www.youtube.com/watch?v=OTmQOjsl0eg)
